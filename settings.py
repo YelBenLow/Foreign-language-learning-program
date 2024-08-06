@@ -1,0 +1,37 @@
+MAIN_FAMILY = 'Arial'
+
+# macskacim
+MACSKACIM_SIZE = 25
+
+# average btn
+AVERAGE_BUTTON_BG_COLOR = ('#C2C2C2', '#343434')
+AVERAGE_ANIMACIO_BUTTON_BG_COLOR = ('#C2C2C2', '#252525')
+AVERAGE_BUTTON_HOVER_COLOR = ('#A5A5A5', '#444444')
+AVERAGE_BUTTON_TCOLOR = ('#232323', '#D7D7D7')
+AVERAGE_DISABLED_TCOLOR = ('#3C3C3C', '#A9A9A9')
+AVERAGE_BUTTON_TSIZE = 19
+
+# nyil between languages
+NYIL_SIZE = 30
+
+# nyelv kiválaszta cím
+NYELVKIVALASZTVA_SIZE = 35
+
+# random szó
+RANDOMSZO_SZIE = 40
+
+# válasz entry
+VALASZ_ENTRY_SIZE = 30
+VALASZ_ENTRY_WIDTH = 500
+
+# tudatosító labelek
+TUDATOSITO_SIZE = 25
+
+# animáció title
+ANIMACIO_CIM_SIZE = 20
+
+# táp cím
+TAP_KIIRO_CIM_SIZE = 30
+
+# cicus canvas háttérszín
+CICUSCANVAS_BGCOLOR = ('#cfcfcf')

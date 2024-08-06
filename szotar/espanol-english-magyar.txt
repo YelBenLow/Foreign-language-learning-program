@@ -1,0 +1,20 @@
+hola-hello-helló
+adiós-good bye-viszlát
+gracias-thank you-köszönöm
+y-and-és
+lo siento-sorry-sajnálom
+el perro-dog-kutya
+el gato-cat-macska
+la casa-house-ház
+el tesoro-treasure-kincs
+el regalo-gift-ajándék
+el museo-museum-múzeum
+el zapato-shoe-cipő
+la mesa-table-asztal
+la silla-chair-szék
+la puerta-door-ajtó
+la ventana-window-ablak
+la cama-bed-ágy
+la pelota-ball-labda
+la maleta-suitcase-bőrönd
+la mariposa-butterfly-pillangó
