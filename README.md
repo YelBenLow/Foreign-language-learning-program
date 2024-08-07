@@ -1,5 +1,7 @@
-# HU: Idegen nyelv szótanuló program (A program 100%-ban python nyelven íródott, a Github hibásan ismeri fel a .exe fájl miatt.)
-# EN: Foreign language learning program (The program is 100% written in Python, GitHub incorrectly recognizes it due to the .exe file.)
+# HU: Idegen nyelv szótanuló program
+### (A program 100%-ban python nyelven íródott, a Github hibásan ismeri fel a .exe fájl miatt.)
+# EN: Foreign language learning program
+### (The program is 100% written in Python, GitHub incorrectly recognizes it due to the .exe file.)
 
 ## English version below!!
 ## FONTOS!!
