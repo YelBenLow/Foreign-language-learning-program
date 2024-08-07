@@ -44,7 +44,7 @@ Jó szórakozást. :)
 
 ## English version
 ## IMPORTANT!!
-### Do not delete the adatok.adatok file, as it stores your points. If you delete it, don't panic, you can create a new data.data file, but your points will be lost.
+### Do not delete the adatok.adatok file, as it stores your points. If you delete it, don't panic, you can create a new adatok.adatok file, but your points will be lost.
 ### About the program
 As the name suggests, you can practice foreign language words with my program.
 
