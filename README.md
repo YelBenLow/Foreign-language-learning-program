@@ -32,7 +32,7 @@ Ha nem ízlik neki, elvesz egy tápot, és véletlenül mindig a helyes megoldá
 A pontod (tápjaid száma) minden alkalommal mentésre kerül.
 
 ### Billentyűbeállítás
-A könnyebb / kényelmesebb használhatóság maitt beállítottam a következő billentyűzetbeállítást:<br><br>
+A könnyebb / kényelmesebb használhatóság miatt beállítottam a következő billentyűzetbeállítást:<br><br>
 
 Enter - Automatikusan rákattint az Ellenőrzés gombra.<br>
 Tab - Ha a speciális módot használod, akkor ezzel a gombbal tudsz a szövegdobozok között váltogatni.
