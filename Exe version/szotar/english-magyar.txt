@@ -1,0 +1,20 @@
+hello-helló
+good bye-viszlát
+thank you-köszönöm
+and-és
+sorry-sajnálom
+dog-kutya
+cat-macska
+house-ház
+treasure-kincs
+gift/present-ajándék
+museum-múzeum
+shoe-cipő
+table-asztal
+chair-szék
+door-ajtó
+window-ablak
+bed-ágy
+ball-labda
+suitcase-bőrönd
+butterfly-pillangó

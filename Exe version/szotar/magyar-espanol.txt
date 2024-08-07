@@ -1,0 +1,20 @@
+helló-hola
+viszlát-adiós
+köszönöm-gracias
+és-y
+sajnálom-lo siento
+kutya-el perro
+macska-el gato
+ház-la casa
+kincs-el tesoro
+ajándék-el regalo
+múzeum-el museo
+cipő-el zapato
+asztal-la mesa
+szék-la silla
+ajtó-la puerta
+ablak-la ventana
+ágy-la cama
+labda-la pelota
+bőrönd-la maleta
+pillangó-la mariposa

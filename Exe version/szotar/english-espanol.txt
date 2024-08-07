@@ -1,0 +1,21 @@
+hello-hola
+good bye-adiós
+thank you-gracias
+so so-así así
+and-y
+sorry-lo siento
+dog-el perro
+cat-el gato
+house-la casa
+treasure-el tesoro
+gift/present-el regalo
+museum-el museo
+shoe-el zapato
+table-la mesa
+chair-la silla
+door-la puerta
+window-la ventana
+bed-la cama
+ball-la pelota
+suitcase-la maleta
+butterfly-la mariposa
