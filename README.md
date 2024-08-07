@@ -13,7 +13,7 @@ Mint ahogy a nevéből is adódik, idegen nyelvű szavakat tudsz gyakorolni a pr
 Jelenleg 3 nyelv közül választhatsz: magyar, angol, spanyol.
 Ezeknél szinte az összes kombináció használható a tanulásra, tehát pl.: angolról spanyolra, magyarról angolra, angolról magyarra, stb stb..
 
-Illetve van egy speciális mód is, ami mind a 3 nyelvet egyszerre használod. Tehát pl van angolul egy szó, és neked le kell fordítanod angolra és spanyolra is egyaránt.
+Illetve van egy speciális mód is, ami mind a 3 nyelvet egyszerre használod. Tehát pl van magyarul egy szó, és neked le kell fordítanod angolra és spanyolra is egyaránt.
 
 ### Szótárak tartalma
 A szotar mappában találod a különféle módokhoz tartozó szótárakat, amit manuálisan is szerkeszthetsz.<br>
